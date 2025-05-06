@@ -22,13 +22,13 @@ Una vez dentro de tu Codespace, **configúralo** de acuerdo a las siguientes ind
 
 4. Selecciona **Create a new configuration...**.
 
-5. Selecciona **From a predefined container configuration...**.
+5. Selecciona **Show all definitions...**.
 
 6. Desplázate hacia abajo y selecciona **Node.js & Mongo DB**.
 
-7. Selecciona **22 (default)** para la versión de Node.js.
+7. Selecciona **22-bookworm** para la versión de Node.js.
 
-8. En la siguiente pantalla, selecciona **GitHub Copilot** de las características adicionales y luego selecciona **OK**.
+8. En la siguiente pantalla, selecciona **Azure CLI** de las características adicionales y luego selecciona **OK**.
 
     - **NOTA:** Puedes escribir el nombre de la característica que deseas para filtrar la lista.
 
@@ -42,7 +42,7 @@ Una vez dentro de tu Codespace, **configúralo** de acuerdo a las siguientes ind
 
 12. Selecciona **Rebuild Container** en el cuadro de diálogo. Ahora tu contenedor se reconstruirá. No importa si eliges **Rebuild** o **Full Rebuild**, cualquiera de las dos opciones te permitirá reiniciar tu codespace con las herramientas necesarias para compilar tu aplicación.
 
-    - **IMPORTANTE:** La reconstrucción del contenedor puede tardar varios minutos.
+    - **IMPORTANTE:** La reconstrucción del contenedor puede tardar varios minutos. No te preocupes si se recarga la página, aparecerá nuevamente después de unos instantes.
 
 Una vez creado el Codespace y configurados los recursos, podrás ejecutar la aplicación con los siguientes comandos:
 
@@ -65,7 +65,7 @@ En la pestaña **Ports** te aparecerá una dirección URL desde la cual puedes a
 ## Éxito
 
 - Has creado y configurado un entorno de desarrollo en la nube con los siguientes recursos instalados:
-  - GitHub Copilot
+  - Azure CLI
   - NodeJS
   - MongoDB
 - Has creado un secreto encriptado para MONGODB_URI
