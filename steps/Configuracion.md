@@ -1,6 +1,6 @@
 ## Descripción
 
-Crearás un entorno de desarrollo que cumpla con las necesidades mencionadas anteriormente. Quieres poder comenzar a escribir código sin necesidad de instalar recursos localmente en tu máquina.
+Crearás un entorno de desarrollo que cumpla con ciertas necesidades. Quieres poder comenzar a escribir código sin necesidad de instalar recursos localmente en tu máquina.
 
 GitHub Codespaces es un entorno de desarrollo en la nube que nos ayudará a trabajar sin necesidad de instalar nada localmente en tu máquina, todo se hará en la nube. Aquí puedes ver más sobre lo que es un [GitHub Codespace](https://docs.github.com/es/codespaces/overview).
 
